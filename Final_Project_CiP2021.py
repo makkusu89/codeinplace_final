@@ -46,7 +46,7 @@ def intro():
     #Just a nice introduction. It won't be repeated when the program is run again.
     print()
     print("                     -----------------------------------------")
-    print("                     |      ITALY'S COVID-19 INFECTIONS      |")
+    print("                     |         ITALY'S COVID-19 DATA         |")
     print("                     |        GRAPHICAL REPRESENTATION       |")
     print("                     -----------------------------------------")
     print()
